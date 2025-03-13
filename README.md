@@ -16,3 +16,6 @@ This is a Streamlit-based web app that predicts the calories burned during exerc
 ## Dataset:
 - `calories.csv`: Contains calorie data
 - `exercise.csv`: Contains user workout details
+
+ **##Network URL:**
+ http://192.168.31.46:8501
