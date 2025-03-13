@@ -7,6 +7,8 @@ This is a Streamlit-based web app that predicts the calories burned during exerc
 - Machine Learning model for prediction
 - Insights & Similar Comparisons
 
+-".streamlit" folder contains "config.toml" file to customize webapp's appearance
+
 ## How to Run:
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the app: `streamlit run fitness_tracker.py`
